@@ -29,12 +29,11 @@ Task → Orchestrator analyzes → Optimal agent auto-selected/generated → Exe
 ### 1. Copy to your project
 
 ```bash
-# Copy the .agents directory to your project
-cp -r .agents /path/to/your/project/
+# Copy the .claude directory to your project
+cp -r .claude /path/to/your/project/
 
-# Copy example files and rename
-cp CLAUDE.md.example /path/to/your/project/CLAUDE.md  # or append to existing
-cp .mcp.json.example /path/to/your/project/.mcp.json  # or merge with existing
+# Copy example file and rename (or append to existing)
+cp CLAUDE.md.example /path/to/your/project/CLAUDE.md
 ```
 
 ### 2. Add orchestration rules to CLAUDE.md
@@ -54,14 +53,14 @@ The orchestrator will automatically:
 
 ```
 your-project/
-├── .agents/
-│   ├── orchestrator.md      # Orchestrator logic
-│   └── manifests/           # Agent skill sheets
-│       ├── _template.yaml   # Template for new agents
-│       ├── agent-a.yaml     # Auto-generated
-│       └── merged-a-b.yaml  # Auto-generated merged agent
-├── .mcp.json                # Subagent definitions
-└── CLAUDE.md                # Project instructions
+├── .claude/
+│   └── agents/
+│       ├── orchestrator.md      # Orchestrator logic
+│       └── manifests/           # Agent skill sheets
+│           ├── _template.yaml   # Template for new agents
+│           ├── agent-a.yaml     # Auto-generated
+│           └── merged-a-b.yaml  # Auto-generated merged agent
+└── CLAUDE.md                    # Project instructions
 ```
 
 ## How It Works

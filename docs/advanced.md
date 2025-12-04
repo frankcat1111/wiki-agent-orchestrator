@@ -118,7 +118,7 @@ The default decision matrix:
 - 60-90% → Merge
 - <60% → Create new
 
-You can adjust these in `orchestrator.md` based on your preferences:
+You can adjust these in `.claude/agents/orchestrator.md` based on your preferences:
 
 **Conservative (prefer existing):**
 ```
@@ -153,14 +153,17 @@ Beyond coverage, consider:
 Create a repository of proven agents:
 
 ```
-shared-agents/
-├── db-expert.yaml
-├── api-expert.yaml
-├── auth-expert.yaml
-└── testing-expert.yaml
+~/.claude/agents/          # User-level agents (available across all projects)
+├── db-expert.md
+├── api-expert.md
+├── auth-expert.md
+└── manifests/
+    ├── db-expert.yaml
+    ├── api-expert.yaml
+    └── auth-expert.yaml
 ```
 
-Import these as starting points for new projects.
+These are available globally across all your projects.
 
 ### Project-Specific Adaptations
 
@@ -170,17 +173,16 @@ Start with shared agents, let them evolve per-project:
 # Project A's db-expert might evolve differently than Project B's
 name: db-expert
 version: "1.0-projectA"
-parent_agents: [shared/db-expert]
+parent_agents: [~/.claude/agents/db-expert]
 ```
 
 ### Cross-Pollination
 
 Strong mergers from one project might benefit others:
 
-1. Export successful merged agent
-2. Add to shared repository
-3. Import into other projects
-4. Let it continue evolving
+1. Export successful merged agent to user-level `~/.claude/agents/`
+2. Available automatically in other projects
+3. Let it continue evolving
 
 ## Debugging the Orchestrator
 

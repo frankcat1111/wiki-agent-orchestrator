@@ -97,7 +97,7 @@ This creates **evolution chains**—progressively more capable agents.
 
 ## The Skill Sheet: Agent DNA
 
-Every agent has a skill sheet defining:
+Every agent has a skill sheet in `.claude/agents/manifests/` defining:
 
 - **Capabilities**: What it can do
 - **Constraints**: What it shouldn't do

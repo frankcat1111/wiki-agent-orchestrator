@@ -9,43 +9,23 @@ Get the agent orchestrator running in your project in 5 minutes.
 
 ## Step 1: Copy Files
 
-Copy the `.agents` directory to your project:
+Copy the `.claude` directory to your project:
 
 ```bash
-cp -r .agents /path/to/your/project/
+cp -r .claude /path/to/your/project/
 ```
 
 Your project should now have:
 ```
 your-project/
-├── .agents/
-│   ├── orchestrator.md
-│   └── manifests/
-│       └── _template.yaml
+├── .claude/
+│   └── agents/
+│       ├── orchestrator.md
+│       └── manifests/
+│           └── _template.yaml
 ```
 
-## Step 2: Configure MCP
-
-If you don't have a `.mcp.json`, copy the example:
-
-```bash
-cp .mcp.json.example /path/to/your/project/.mcp.json
-```
-
-If you already have `.mcp.json`, add the orchestrator subagent:
-
-```json
-{
-  "subagents": {
-    "orchestrator": {
-      "description": "Agent orchestrator - analyzes tasks and determines optimal agent configuration",
-      "prompt_file": ".agents/orchestrator.md"
-    }
-  }
-}
-```
-
-## Step 3: Update CLAUDE.md
+## Step 2: Update CLAUDE.md
 
 Add orchestration rules to your `CLAUDE.md`:
 
@@ -54,14 +34,14 @@ Add orchestration rules to your `CLAUDE.md`:
 
 **All tasks must pass through the orchestrator before execution.**
 
-1. Read `.agents/orchestrator.md` for orchestration logic
-2. Scan all skill sheets in `.agents/manifests/`
+1. Read `.claude/agents/orchestrator.md` for orchestration logic
+2. Scan all skill sheets in `.claude/agents/manifests/`
 3. Follow the decision matrix to determine optimal agent configuration
 4. Execute task with selected/generated agent
 5. Report results including any agent evolution
 ```
 
-## Step 4: Start Using
+## Step 3: Start Using
 
 That's it! Now when you give Claude Code a task:
 
@@ -84,7 +64,7 @@ Claude:
 - Scanning manifests: 0 agents found
 - Coverage: 0% - Creating new agent
 - Created: auth-api-expert
-- Skill sheet saved to .agents/manifests/auth-api-expert.yaml
+- Skill sheet saved to .claude/agents/manifests/auth-api-expert.yaml
 - Executing task...
 [task completion]
 ```
@@ -104,10 +84,10 @@ Claude:
 
 ## Watching Evolution
 
-As you work, check `.agents/manifests/` to see your agent ecosystem grow:
+As you work, check `.claude/agents/manifests/` to see your agent ecosystem grow:
 
 ```bash
-ls .agents/manifests/
+ls .claude/agents/manifests/
 # _template.yaml
 # auth-api-expert.yaml
 # db-expert.yaml
