@@ -6,6 +6,8 @@ A self-evolving subagent management system for Claude Code. Instead of manually 
 
 ## Concept
 
+![Self-evolving Orchestration Ecosystem](docs/images/orchestration-flow.jpg)
+
 Traditional workflow:
 ```
 Task → Human selects agent → Execute → Agents accumulate → Human manually reorganizes
