@@ -1,0 +1,48 @@
+{{Infobox Company
+| 社名 = 有限会社高知アイス
+| 英文社名 = KOCHI ICE INC.
+| 画像 = 
+| 画像説明 = 
+| 本社郵便番号 = 781-2128
+| 本社所在地 = [[高知県]][[吾川郡]][[いの町]]波川34
+| 設立 = 1995年（平成7年）
+| 業種 = 食料品製造業
+| 代表者 = 代表取締役 浜町文也
+| 資本金 = 300万円
+| 売上高 = 
+| 従業員数 = 
+| 主要株主 = 
+| 主要子会社 = 
+| 関係する人物 = 
+| 外部リンク = https://www.kochi-ice.com/
+| 特記事項 = 
+}}
+
+'''有限会社高知アイス'''（こうちアイス）は、[[高知県]][[吾川郡]][[いの町]]に本社を置く[[アイスクリーム]]・[[シャーベット]]の製造・販売を行う企業である。「Made in 土佐」をコンセプトに、高知県産の素材を使用した商品を展開している<ref name="big_advance">[https://www.big-advance.site/c/168/1403/profile 会社案内] - 有限会社 高知アイス（Big Advance）</ref><ref name="furusato_choice_feature">[https://www.furusato-tax.jp/feature/detail/39386/6845 Made in 土佐のアイスクリーム！（特集）] - ふるさとチョイス</ref>。
+
+== 概要 ==
+高知県産の[[ユズ]]、[[ブンタン]]、[[ショウガ]]などの農産物を使用したアイスクリームやシャーベットを製造・販売している。素材の生産者との連携を重視し、農商工連携の事例としても知られる<ref name="maff_case">[https://www.maff.go.jp/j/press/kanbo/kihyo01/pdf/080404_1-02.pdf 農商工連携88選 事例一覧] - 農林水産省</ref>。
+
+== 沿革 ==
+* 1995年（平成7年） - 設立<ref name="history">[https://www.kochi-ice.com/company/history/ 概要・沿革] - 有限会社高知アイス 公式サイト</ref>。
+* 2008年（平成20年） - 農林水産省の「農商工連携88選」に選定される<ref name="maff_case" />。
+* 2014年（平成26年） - 日本アジアハラール協会よりハラール認証を取得<ref name="halal">[https://web.nipponasia-halal.org/wp-content/uploads/2014/08/%E9%AB%98%E7%9F%A5%E3%82%A2%E3%82%A4%E3%82%B9.pdf 有限会社高知アイス（ハラール商品パンフレット）] - 日本アジアハラール協会</ref>。
+* 2017年（平成29年） - 高知県と「高知県清流保全パートナーズ協定」を締結<ref name="pref_kochi_partners">[https://www.pref.kochi.lg.jp/doc/2017022200217/ 高知県清流保全パートナーズ協定（有限会社高知アイス）] - 高知県公式サイト</ref>。
+* 2022年（令和4年）8月 - [[日本航空]] (JAL) の国際線機内特別食（ムスリムミールなど）として「ゆずシャーベット」の提供が開始される<ref name="jal_press">[https://www.jal.com/ja/sustainability/human/satisfaction/customer/202208/ 国際線機内特別食用のアイス（ゆずシャーベット）のご提供を開始しました] - JAL企業サイト</ref><ref name="jal_meal">[https://www.jal.co.jp/jp/ja/inter/service/meal/special/menu/religious/ 宗教にかかわるご要望のあるお客さまのお食事（機内特別食）] - JAL公式サイト</ref>。
+
+== 主な商品 ==
+高知県産の素材にこだわった商品を展開している。
+* '''ゆずシャーベット''' - 高知県産のユズ果汁を使用。JAL国際線機内食にも採用された<ref name="jal_press" />。
+* '''天日塩ジェラート''' - 高知県黒潮町の天日塩を使用<ref name="salt_gelato">[https://www.kochi-ice.com/%E5%A4%A9%E6%97%A5%E5%A1%A9%E3%82%B8%E3%82%A7%E3%83%A9%E3%83%BC%E3%83%88/ 天日塩ジェラート] - 高知アイス 公式サイト</ref>。
+* '''ミレービスケットアイス''' - 高知の銘菓「[[ミレービスケット]]」を使用したアイス。
+
+== 施設・店舗 ==
+* '''KOCHI-ICE LABO'''（高知アイスラボ） - [[須崎市]]にある工場併設の直営店。仁淀川を望むロケーションにある<ref name="labo">[https://www.kochi-ice.com/company/kochi-ice-labo/ KOCHI-ICE LABO] - 高知アイス 公式サイト</ref>。
+* '''高知アイス売店''' - [[吾川郡]][[いの町]]にある直営店。仁淀川沿いに位置する<ref name="baiten">[https://www.inofan.jp/spot/souvenir/n135/ 高知アイス売店 kochi ice baiten] - いの町観光協会</ref>。
+* '''高知アイスカフェ よさこい咲都''' - [[高知市]]のJR[[高知駅]]近くにある店舗<ref name="kutv">[https://www.kutv.co.jp/colorful/colorful-2064559/ 高知アイスカフェ よさこい咲都] - KUTVテレビ高知</ref>。
+
+== 脚注 ==
+{{Reflist}}
+
+== 外部リンク ==
+* [https://www.kochi-ice.com/ 有限会社高知アイス]

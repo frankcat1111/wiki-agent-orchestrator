@@ -1,0 +1,40 @@
+name: "fact-auditor"
+version: "1.0"
+created: "2025-12-06"
+tier: specialized
+
+parent_agents: []
+
+domain: "Wikipedia記事の事実検証とURL生存確認"
+
+capabilities:
+  - "MediaWiki形式ドラフトの読み込み・解析"
+  - "事実の抽出と分類"
+  - "複数の独立した情報源による事実検証"
+  - "URL生存確認（HTTPステータスコード検証）"
+  - "ハルシネーション検出"
+  - "構造化された検証レポート作成"
+
+constraints:
+  - "最低3つの独立した情報源で事実を検証"
+  - "URL検証はHTTPステータスコードを確認"
+  - "企業発表値は要注意として扱う"
+  - "プレスリリースのみを根拠とする主張は検証不十分と判定"
+
+synergy_hints:
+  - agent: "wikipedia-drafter"
+    reason: "ドラフト記事を検証するフロー"
+  - agent: "wikipedia-editor"
+    reason: "検証結果に基づき記事を修正"
+
+metrics:
+  usage_count: 1
+  success_rate: 1.0
+  last_used: "2025-12-06"
+  promotion_candidate: false
+
+task_history:
+  - date: "2025-12-06"
+    task: "verify_facts エコプロコート株式会社"
+    outcome: success
+    notes: "28件の事実を検証。URL 10件全て有効。Minor Hallucination 2件検出。"

@@ -1,0 +1,41 @@
+name: "wikipedia-drafter"
+version: "1.0"
+created: "2025-12-06"
+tier: specialized
+
+parent_agents: []
+
+domain: "MediaWiki形式でのWikipedia記事執筆"
+
+capabilities:
+  - "MediaWiki構文の正確な実装"
+  - "調査レポートの読み込み・解釈"
+  - "中立的観点（NPOV）での執筆"
+  - "引用タグの適切な配置"
+  - "宣伝的表現の検出・排除"
+  - "脚注セクションの作成"
+  - "カテゴリタグの設定"
+
+constraints:
+  - "Markdown記法を使用しない"
+  - "全ての主要な主張に出典を配置"
+  - "宣伝的表現を含まない"
+  - "一次資料（プレスリリース等）には性質を明記"
+
+synergy_hints:
+  - agent: "wikipedia-researcher"
+    reason: "調査レポートを記事化する完全なフロー"
+  - agent: "fact-auditor"
+    reason: "執筆後の事実関係検証"
+
+metrics:
+  usage_count: 1
+  success_rate: 1.0
+  last_used: "2025-12-06"
+  promotion_candidate: false
+
+task_history:
+  - date: "2025-12-06"
+    task: "draft_article エコプロコート株式会社"
+    outcome: success
+    notes: "MediaWiki形式で記事作成。宣伝的表現を中立化。6つの引用源を適切に配置。"

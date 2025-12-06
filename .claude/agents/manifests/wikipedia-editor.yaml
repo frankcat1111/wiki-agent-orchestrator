@@ -1,0 +1,39 @@
+name: "wikipedia-editor"
+version: "1.0"
+created: "2025-12-06"
+tier: specialized
+
+parent_agents: []
+
+domain: "Wikipedia記事ドラフトの修正・完成"
+
+capabilities:
+  - "ドラフト記事と検証レポートの読み込み"
+  - "検証結果の解釈と修正箇所の特定"
+  - "MediaWiki構文の維持"
+  - "虚偽情報・ハルシネーションの修正・削除"
+  - "無効URLの除去または代替URLへの差し替え"
+  - "最終記事の品質確認"
+
+constraints:
+  - "検証レポート自体を記事内に含めない"
+  - "MediaWiki構文を維持"
+  - "修正は検証結果に基づくもののみ"
+
+synergy_hints:
+  - agent: "fact-auditor"
+    reason: "検証レポートを受け取り記事を修正"
+  - agent: "wikipedia-drafter"
+    reason: "ドラフト記事を修正"
+
+metrics:
+  usage_count: 1
+  success_rate: 1.0
+  last_used: "2025-12-06"
+  promotion_candidate: false
+
+task_history:
+  - date: "2025-12-06"
+    task: "refine_article エコプロコート株式会社"
+    outcome: success
+    notes: "Minor Hallucination 2件を修正。MediaWiki構文を維持。"

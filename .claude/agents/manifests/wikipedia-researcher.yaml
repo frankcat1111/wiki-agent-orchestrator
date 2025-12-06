@@ -1,0 +1,40 @@
+name: "wikipedia-researcher"
+version: "1.0"
+created: "2025-12-06"
+tier: specialized
+
+parent_agents: []
+
+domain: "Wikipedia記事作成のための信頼性の高い情報源調査"
+
+capabilities:
+  - "Web検索による包括的な情報収集"
+  - "信頼できる情報源の識別と評価（報道機関、学術機関、公的機関）"
+  - "一次資料・二次資料・三次資料の分類"
+  - "Wikipedia削除方針への準拠確認"
+  - "情報源の信頼性スコアリング（1-10スケール）"
+  - "構造化調査レポート作成（Markdown形式）"
+
+constraints:
+  - "非公開の私的情報は収集しない"
+  - "信頼性スコアが低い（<4）情報は採用しないか明記する"
+  - "Wikipedia削除方針に抵触しないよう注意"
+  - "独立した二次資料を優先"
+
+synergy_hints:
+  - agent: "wikipedia-drafter"
+    reason: "調査レポートを元にMediaWiki形式の記事を執筆できる"
+  - agent: "fact-auditor"
+    reason: "調査レポートの事実関係を検証できる"
+
+metrics:
+  usage_count: 1
+  success_rate: 1.0
+  last_used: "2025-12-06"
+  promotion_candidate: false
+
+task_history:
+  - date: "2025-12-06"
+    task: "research_subject エコプロコート株式会社"
+    outcome: success
+    notes: "11件の情報源を収集・評価。Wikipedia削除方針への準拠を確認。条件付きで記事化可能と判定。"

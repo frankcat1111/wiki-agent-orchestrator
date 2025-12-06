@@ -1,0 +1,60 @@
+'''岩佐 大輝'''(いわさ ひろき、1977年 - )は、日本の起業家、実業家。株式会社GRA代表取締役CEO、武蔵野大学アントレプレナーシップ学部教授。宮城県山元町出身。東日本大震災からの復興を目指し、IT技術を活用した先端施設園芸による農業の構造変革に取り組み、高級ブランドイチゴ「ミガキ イチゴ」を生み出したことで知られる<ref>{{Cite web |url=https://www.iwasa-hiroki.com/ |title=岩佐大輝.COM |accessdate=2025-11-21}}</ref><ref>{{Cite web |url=https://www.gra-inc.jp/ |title=株式会社GRA公式サイト |accessdate=2025-11-21}}</ref>。
+
+== 経歴 ==
+=== 初期のキャリア ===
+2002年、大学在学中にITコンサルティングサービスを主業務とする株式会社ズノウを起業<ref>{{Cite web |url=https://researchmap.jp/iwasa_hiroki |title=岩佐 大輝 - researchmap |accessdate=2025-11-21}}</ref>。IT業界で起業家としてのキャリアをスタートさせた。
+
+=== GRA設立と農業への参入 ===
+2011年3月11日に発生した東日本大震災により、故郷である宮城県山元町は壊滅的な被害を受けた。山元町は東北地方有数のイチゴ産地であったが、津波によりイチゴ生産施設の大部分が流失した<ref>{{Cite web |url=https://pc-webzine.com/interview-iwasa-hiroki/ |title=岩佐大輝氏インタビュー |publisher=PC Webzine |accessdate=2025-11-21}}</ref>。
+
+震災後、岩佐はNPOでのボランティア活動を経て、「故郷の復興は産業復興あってこそ」との強い思いから、2012年1月17日に農業生産法人 株式会社GRAを設立した<ref>{{Cite web |url=https://migaki-farm.jp/ |title=MIGAKI FARM 会社概要 |accessdate=2025-11-21}}</ref>。GRAは「農業を強い産業とすることで地域社会に持続可能な繁栄をもたらす」ことをミッションとして掲げている。
+
+=== ミガキイチゴ事業の展開 ===
+IT企業での経験を活かし、岩佐はイチゴ栽培にテクノロジーを導入した。水温、ビニールハウス内の温度、湿度、二酸化炭素濃度、日射量などのデータを収集・分析することで、熟練農家の勘と経験に頼っていた従来の栽培方法をデータに基づいて形式知化し、高品質なイチゴの安定生産を実現した<ref>{{Cite web |url=https://pc-webzine.com/interview-iwasa-hiroki/ |title=岩佐大輝氏インタビュー |publisher=PC Webzine |accessdate=2025-11-21}}</ref>。
+
+GRAが手掛けるブランドイチゴ「ミガキイチゴ」は、「食べる宝石」をコンセプトに、色、形、ツヤ、糖度などの厳しい基準をクリアしたイチゴのみが販売される。最高級グレードの「ミガキイチゴ・プラチナ」は、1粒1,000円という価格でメディアでも話題になった<ref>{{Cite web |url=https://www.gra-inc.jp/ |title=株式会社GRA公式サイト |accessdate=2025-11-21}}</ref>。
+
+=== 6次産業化と多角展開 ===
+GRAは、イチゴの生産・販売に留まらず、加工・販売や観光といった多角的な事業展開を進めている。主な事業内容は以下の通りである。
+
+* '''ミガキイチゴ生産販売事業''': ブランドイチゴ「ミガキイチゴ」の栽培と販売
+* '''いちごの食文化事業''': ミガキイチゴを原料としたスイーツ、加工食品、化粧品などの商品開発・販売。イチゴ専門スイーツショップ「いちびこ(ICHIBIKO)」を運営
+* '''いちごのテーマパーク事業''': イチゴ狩り施設「ICHIGO WORLD」を運営。年間約5万人の観光客が訪れる<ref>{{Cite web |url=https://migaki-farm.jp/ |title=MIGAKI FARM |accessdate=2025-11-21}}</ref>
+* '''いちごプラットフォーム事業''': 農業未経験の個人や法人に対し、イチゴ栽培のノウハウ提供や就農後の営農サポートを行う新規就農支援事業「イチゴアカデミー」を展開
+
+2023年9月、GRAは農薬大手上場企業であるクミアイ化学工業株式会社とのM&Aに合意した<ref>{{Cite web |url=https://globis.jp/article/8805 |title=一粒1000円のミガキイチゴを生む「GRA」、クミアイ化学とのM&Aで目指すもの |publisher=グロービス知見録 |date=2023-09-19 |accessdate=2025-11-21}}</ref>。
+
+=== 教育活動 ===
+武蔵野大学アントレプレナーシップ学部(EMC)の教授を務め、「『ことを成す』人を育てる」ことに尽力している<ref>{{Cite web |url=https://www.musashino-u.ac.jp/academics/faculty/entrepreneurship/faculty/iwasa_hiroki.html |title=教員紹介：岩佐 大輝 |publisher=武蔵野大学 |accessdate=2025-11-21}}</ref>。実践重視のカリキュラムおよび起業家との対話を通じて、学生のアントレプレナーシップ(起業家精神)を育むことを目指している。
+
+== 受賞歴 ==
+* 2013年 - グッドデザイン賞(ミガキイチゴ)<ref>{{Cite web |url=https://www.iwasa-hiroki.com/ |title=岩佐大輝.COM Profile |accessdate=2025-11-21}}</ref>
+* 2014年 - 東日本大震災復興賞(経済産業省主催「ジャパンベンチャーアワード」)<ref>{{Cite web |url=https://sogyotecho.jp/award/jva2014/ |title=ジャパンベンチャーアワード2014 |publisher=創業手帳 |accessdate=2025-11-21}}</ref>
+* 2015年 - 地方創生賞(大賞)(内閣府後援「ふるさと名品オブ・ザ・イヤー」、ミガキイチゴ・ムスー)
+* 2025年 - 総務大臣賞(総務省「テレワークトップランナー2025」、株式会社GRA)<ref>{{Cite web |url=https://prtimes.jp/main/html/rd/p/000000074.000012456.html |title=テレワークトップランナー2025 GRAが総務大臣賞を受賞 |publisher=PR TIMES |date=2025-03-05 |accessdate=2025-11-21}}</ref>
+
+== 著書 ==
+* 『99%の絶望の中に「1%のチャンス」は実る』(ダイヤモンド社、2014年)
+* 『甘酸っぱい経営』(ブックウォーカー、2015年)
+* 『絶対にギブアップしたくない人のための成功する農業』(朝日新聞出版、2018年)
+* 『あまずっぱいいちご』(リーブル出版、2021年)
+
+== 人物 ==
+人生のテーマは「旅するように暮らそう」。趣味はサーフィンとキックボクシング<ref>{{Cite web |url=https://www.iwasa-hiroki.com/ |title=岩佐大輝.COM Profile |accessdate=2025-11-21}}</ref>。
+
+== 脚注 ==
+{{Reflist}}
+
+== 外部リンク ==
+* [https://www.iwasa-hiroki.com/ 岩佐大輝.COM]
+* [https://www.gra-inc.jp/ 株式会社GRA]
+* [https://migaki-farm.jp/ MIGAKI FARM]
+* [https://www.musashino-u.ac.jp/academics/faculty/entrepreneurship/faculty/iwasa_hiroki.html 武蔵野大学 教員紹介]
+
+{{DEFAULTSORT:いわさ ひろき}}
+[[Category:日本の実業家]]
+[[Category:日本の起業家]]
+[[Category:日本の大学教員]]
+[[Category:宮城県出身の人物]]
+[[Category:1977年生]]
+[[Category:存命人物]]
