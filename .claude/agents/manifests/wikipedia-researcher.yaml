@@ -28,9 +28,9 @@ synergy_hints:
     reason: "調査レポートの事実関係を検証できる"
 
 metrics:
-  usage_count: 1
+  usage_count: 3
   success_rate: 1.0
-  last_used: "2025-12-06"
+  last_used: "2025-12-08"
   promotion_candidate: false
 
 task_history:
@@ -38,3 +38,11 @@ task_history:
     task: "research_subject エコプロコート株式会社"
     outcome: success
     notes: "11件の情報源を収集・評価。Wikipedia削除方針への準拠を確認。条件付きで記事化可能と判定。"
+  - date: "2025-12-07"
+    task: "research_subject VIALA 自由が丘"
+    outcome: success
+    notes: "7件の情報源を収集・評価。独立した二次資料0件。特筆性不足によりWikipedia記事化は推奨しないと判定。"
+  - date: "2025-12-08"
+    task: "research_subject 株式会社YAMABE"
+    outcome: success
+    notes: "二次資料（京セラ公式ニュースリリース、富山県公式サイト）を含む多数の情報源を収集・評価。KDJマスターズ最優秀賞を特筆性の根拠として確認。条件付きで記事化可能と判定。"

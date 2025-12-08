@@ -1,0 +1,26 @@
+'''株式会社YAMABE'''(やまべ)は、富山県高岡市に本社を置く事務機器販売およびITソリューション企業である<ref>{{Cite web |url=https://shukatsu-line.pref.toyama.lg.jp/corporation/2010/info |title=株式会社YAMABE 企業情報 |work=就活ラインとやま |publisher=富山県 |accessdate=2025-12-08}}</ref>。1977年に創業し、2025年5月1日に旧社名「山辺事務機株式会社」から現社名に変更した<ref name="official">{{Cite web |url=https://www.yamabe-jim.com/company/ |title=会社概要 |work=株式会社YAMABE公式サイト |accessdate=2025-12-08}}</ref>。
+
+== 概要 ==
+同社によると、OA機器の販売・メンテナンスを主要事業とし、ITインフラ導入支援、ソフトウェア販売、オフィス家具販売などを手掛ける<ref name="official" />。本社は富山県高岡市に所在し、富山オフィス、新潟オフィス、福井サテライトを展開している<ref name="official" />。2024年7月時点の売上高は6億44百万円、従業員数は25名である<ref>{{Cite web |url=https://shukatsu-line.pref.toyama.lg.jp/corporation/2010/info |title=株式会社YAMABE 企業情報 |work=就活ラインとやま |publisher=富山県 |accessdate=2025-12-08}}</ref>。
+
+== 沿革 ==
+* 1977年(昭和52年) - 創業<ref name="official" />
+* 2025年5月1日 - 株式会社天神屋からの吸収分割により事務機部門を承継し、社名を「株式会社YAMABE」に変更<ref name="official" />
+
+== 受賞歴 ==
+京セラドキュメントソリューションズジャパンが主催する販売パートナー向けコンテスト「KDJマスターズ」において、2021年にセールス部門優秀賞を受賞<ref>{{Cite press release |url=https://www.kyoceradocumentsolutions.com/ja/news/rls_2021/rls_20211029.html |title=セールスとカスタマーエンジニアのスキルを競うコンテスト、『KDJマスターズ2021』全国大会を開催 |publisher=京セラドキュメントソリューションズジャパン株式会社 |date=2021-10-29 |accessdate=2025-12-08}}</ref>、2022年には同コンテストセールス部門最優秀賞を受賞した<ref>{{Cite press release |url=https://www.kyoceradocumentsolutions.com/ja/news/rls_2022/rls_20221221.html |title=セールスとカスタマーエンジニアのスキルを競うコンテスト『KDJマスターズ2022』全国大会を開催 |publisher=京セラドキュメントソリューションズジャパン株式会社 |date=2022-12-21 |accessdate=2025-12-08}}</ref>。
+
+== DX推進への取り組み ==
+サイボウズのグループウェア「kintone」のオフィシャルパートナーとして認定されている<ref>{{Cite web |url=https://partner.cybozu.co.jp/search/yamabejimuki.html |title=山辺事務機株式会社 |work=サイボウズパートナーネットワーク |publisher=サイボウズ株式会社 |accessdate=2025-12-08}}</ref>。2024年にはサイボウズ主催のイベント「kintone hive nagoya vol.8」において、同社社員が新卒研修でのkintone活用事例を発表した<ref>{{Cite web |url=https://ascii.jp/elem/000/004/223/4223219/ |title=入社1年目の壁を乗り越えろ!新卒社員が踏み出したkintoneマスターへの道 |work=ASCII.jp |date=2024-08-09 |accessdate=2025-12-08}}</ref>。
+
+== 脚注 ==
+{{Reflist}}
+
+== 外部リンク ==
+* [https://www.yamabe-jim.com/ 株式会社YAMABE 公式サイト]
+
+{{デフォルトソート:やまへ}}
+[[Category:富山県の企業]]
+[[Category:高岡市の企業]]
+[[Category:日本の卸売業者]]
+[[Category:1977年設立の企業]]

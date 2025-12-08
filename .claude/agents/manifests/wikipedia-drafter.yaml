@@ -29,9 +29,9 @@ synergy_hints:
     reason: "執筆後の事実関係検証"
 
 metrics:
-  usage_count: 1
+  usage_count: 3
   success_rate: 1.0
-  last_used: "2025-12-06"
+  last_used: "2025-12-08"
   promotion_candidate: false
 
 task_history:
@@ -39,3 +39,11 @@ task_history:
     task: "draft_article エコプロコート株式会社"
     outcome: success
     notes: "MediaWiki形式で記事作成。宣伝的表現を中立化。6つの引用源を適切に配置。"
+  - date: "2025-12-07"
+    task: "draft_article VIALA 自由が丘"
+    outcome: success
+    notes: "MediaWiki形式で記事作成。特筆性不足を考慮し宣伝的表現を徹底排除。3つの引用源を適切に配置。"
+  - date: "2025-12-08"
+    task: "draft_article 株式会社YAMABE"
+    outcome: success
+    notes: "MediaWiki形式で記事作成。KDJマスターズ最優秀賞を特筆性として強調。二次資料を優先使用し一次資料には帰属明記。6つの引用源を適切に配置。構文エラー0件。"

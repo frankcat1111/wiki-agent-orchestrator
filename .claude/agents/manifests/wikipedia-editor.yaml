@@ -27,9 +27,9 @@ synergy_hints:
     reason: "ドラフト記事を修正"
 
 metrics:
-  usage_count: 1
+  usage_count: 3
   success_rate: 1.0
-  last_used: "2025-12-06"
+  last_used: "2025-12-08"
   promotion_candidate: false
 
 task_history:
@@ -37,3 +37,11 @@ task_history:
     task: "refine_article エコプロコート株式会社"
     outcome: success
     notes: "Minor Hallucination 2件を修正。MediaWiki構文を維持。"
+  - date: "2025-12-07"
+    task: "refine_article VIALA 自由が丘"
+    outcome: success
+    notes: "Minor Hallucination 1件を修正。削除推奨3項目（沿革、小顔カット、スタッフ数）を削除。MediaWiki構文を維持。"
+  - date: "2025-12-08"
+    task: "refine_article 株式会社YAMABE"
+    outcome: success
+    notes: "Critical Hallucination 1件を修正（KDJマスターズ参加企業数の矛盾を解消）。MediaWiki構文を維持。"

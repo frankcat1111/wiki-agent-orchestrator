@@ -28,9 +28,9 @@ synergy_hints:
     reason: "検証結果に基づき記事を修正"
 
 metrics:
-  usage_count: 1
+  usage_count: 3
   success_rate: 1.0
-  last_used: "2025-12-06"
+  last_used: "2025-12-08"
   promotion_candidate: false
 
 task_history:
@@ -38,3 +38,11 @@ task_history:
     task: "verify_facts エコプロコート株式会社"
     outcome: success
     notes: "28件の事実を検証。URL 10件全て有効。Minor Hallucination 2件検出。"
+  - date: "2025-12-07"
+    task: "verify_facts VIALA 自由が丘"
+    outcome: success
+    notes: "事実検証を実施。URL 3件全て有効。Minor Hallucination 1件検出。総合信頼度スコア45/100。"
+  - date: "2025-12-08"
+    task: "verify_facts 株式会社YAMABE"
+    outcome: success
+    notes: "事実検証とURL生存確認を実施。URL 6件全て有効。Critical Hallucination 1件検出（KDJマスターズ参加企業数の矛盾）。条件付き合格と判定。"
