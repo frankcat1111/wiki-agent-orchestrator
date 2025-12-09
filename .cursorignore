@@ -1,0 +1,4 @@
+outputs/**
+!outputs/_active/**
+!outputs/_active
+
