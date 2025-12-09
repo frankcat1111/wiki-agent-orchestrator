@@ -1,0 +1,49 @@
+# ====================================
+# Claude Code Context Exclusion
+# ====================================
+# このファイルはClaude Codeが読み込むコンテキストから除外するファイル/ディレクトリを指定します
+
+# 完了済みプロジェクト保管庫（AIは読み取り不要）
+完了済み/
+完了済み/**/*
+
+# 出力ディレクトリの大きなレポートファイル
+outputs/*/research_report.md
+outputs/*/verification_report.md
+outputs/*/url_check_report.md
+outputs/**/*.log
+
+# Knowledgeベース（必要時のみエージェントが直接Read toolで読み込む）
+knowledge/*.md
+knowledge/**/*
+
+# システム・一時ファイル
+.DS_Store
+**/.DS_Store
+*.log
+*.tmp
+*.temp
+.cache/
+
+# Git関連
+.git/
+.gitignore
+.gitattributes
+
+# エディタ設定
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 依存関係
+node_modules/
+__pycache__/
+.venv/
+venv/
+
+# アーカイブ
+*.zip
+*.tar.gz
+*.tar
+archive/

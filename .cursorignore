@@ -1,4 +1,45 @@
-outputs/**
-!outputs/_active/**
-!outputs/_active
+# ====================================
+# Token Optimization Configuration
+# ====================================
 
+# 完了済みプロジェクト保管庫（AIは読み取り不要）
+完了済み/
+完了済み/**/*
+**/完了済み/
+**/完了済み/**/*
+
+# 出力ディレクトリ（生成されたレポートとドラフトは大きい）
+outputs/*/research_report.md
+outputs/*/verification_report.md
+outputs/*/url_check_report.md
+
+# Knowledgeベース（大きなWikipediaポリシー文書）
+# 必要な時だけエージェントが直接読み込む
+knowledge/
+
+# システムファイル
+.DS_Store
+**/.DS_Store
+
+# Git関連
+.git/
+.gitignore
+
+# エージェント実行ログ（あれば）
+*.log
+logs/
+
+# 一時ファイル
+*.tmp
+*.temp
+.cache/
+
+# Node modules（もしあれば）
+node_modules/
+
+# Python関連（もしあれば）
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
