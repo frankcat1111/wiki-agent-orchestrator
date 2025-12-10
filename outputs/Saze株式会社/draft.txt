@@ -1,0 +1,33 @@
+'''Saze株式会社'''（サゼ かぶしきがいしゃ）は、東京都千代田区に本社を置く情報システム構築企業。2016年4月5日設立<ref name="shachomeikan">{{Cite web |url=https://shachomeikan.jp/corporations/24314 |title=Saze株式会社 の企業情報 |website=社長名鑑 |access-date=2025-12-09}}</ref><ref name="mynavi">{{Cite web |url=https://tenshoku.mynavi.jp/company/434140/ |title=Saze株式会社の会社概要 |website=マイナビ転職 |access-date=2025-12-09}}</ref>。代表取締役社長は伊藤康浩<ref name="shachomeikan" /><ref name="interview">{{Cite web |url=https://shachomeikan.jp/industry_article/4103 |title=業界毎特集記事－Saze株式会社 代表取締役社長 伊藤 康浩 |website=社長名鑑 |access-date=2025-12-09}}</ref>。
+
+== 概要 ==
+同社発表によると、情報システム構築に関わる業務全般を事業内容としており、コンサルティング、システム開発、保守・改善などを手がける<ref name="mynavi" /><ref name="doda">{{Cite web |url=https://doda.jp/DodaFront/View/Company/j_id__10166737315/ |title=Saze株式会社の転職・企業概要 |website=doda |access-date=2025-12-09}}</ref>。本社所在地は東京都千代田区神田平河町1番地 第3東ビル8F<ref name="shachomeikan" /><ref name="mynavi" />。
+
+== 沿革 ==
+* 2016年4月5日 - 設立<ref name="shachomeikan" /><ref name="mynavi" />
+* 2019年9月1日 - 労働者派遣事業許可取得（許可番号:派 13-314250）<ref name="mynavi" />
+* 2019年10月23日 - プライバシーマーク取得（第10824787(03)号）<ref name="mynavi" />
+* 2024年6月1日 - 一般財団法人日本次世代企業普及機構によるホワイト企業認定ゴールドランク取得<ref name="prtimes-gold">{{Cite press release |url=https://prtimes.jp/main/html/rd/p/000000213.000039303.html |title=【売上を社員に還元するIT企業No.1】Saze株式会社様を「ホワイト企業認定 ゴールドランク 」として認定いたしました！ |publisher=一般財団法人日本次世代企業普及機構 |date=2024-06-10 |access-date=2025-12-09}}</ref>
+* 2025年2月6日 - 厚生労働省によるえるぼし認定取得<ref name="mynavi" />
+* 2025年6月1日 - 一般財団法人日本次世代企業普及機構によるホワイト企業認定プラチナランク取得<ref name="prtimes-platinum">{{Cite press release |url=https://prtimes.jp/main/html/rd/p/000000002.000118192.html |title=【ホワイト企業認定 最高位 プラチナ取得】Saze株式会社、徹底した社員視点の改革を継続する |publisher=Saze株式会社 |date=2025-06-01 |access-date=2025-12-09}}</ref><ref name="jiji">{{Cite web |url=https://www.jiji.com/jc/article?k=000000002.000118192&g=prt |title=【ホワイト企業認定 最高位 プラチナ取得】Saze株式会社、徹底した社員視点の改革を継続する |website=時事通信 |date=2025-06-01 |access-date=2025-12-09}}</ref>
+
+== 認定・許認可 ==
+=== 労働関連認定 ===
+* '''ホワイト企業認定プラチナランク'''（2025年6月1日、一般財団法人日本次世代企業普及機構）<ref name="prtimes-platinum" /><ref name="jiji" />
+* '''えるぼし認定'''（2025年2月6日、厚生労働省） - 女性活躍推進企業認定<ref name="mynavi" />
+* '''TOKYOパパ育業促進企業ゴールド'''（東京都） - 育児休業取得率100%を達成<ref name="tokyo-papa">{{Cite web |url=https://www.katei-ryouritsu.metro.tokyo.lg.jp/danseiikukyu/kensaku/company.html?id=c151 |title=TOKYOパパ育業促進企業検索 - Saze株式会社 |website=東京都生活文化スポーツ局 |access-date=2025-12-09}}</ref>
+
+=== 事業許認可 ===
+* '''労働者派遣事業許可'''（2019年9月1日取得、許可番号:派 13-314250）<ref name="mynavi" />
+* '''プライバシーマーク'''（2019年10月23日取得、第10824787(03)号、一般財団法人日本情報経済社会推進協会）<ref name="mynavi" />
+
+== 脚注 ==
+{{Reflist}}
+
+== 外部リンク ==
+* [https://www.saze.co.jp/ 公式ウェブサイト]
+
+{{DEFAULTSORT:させ}}
+[[Category:千代田区の企業]]
+[[Category:日本のシステムインテグレータ]]
+[[Category:2016年設立の企業]]
